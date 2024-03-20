@@ -1,0 +1,13 @@
+{
+  "name": "sequiid",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "author": "JohannaChristiansen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvieSpencer/sequiid.git"
+  },
+  "version": "1.0.0",
+  "homepage": "https://github.com/EvieSpencer/sequiid.git"
+}
